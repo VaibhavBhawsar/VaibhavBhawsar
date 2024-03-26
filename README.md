@@ -25,7 +25,8 @@ I recently graduated with a degree in Bachelor of Engineering(BE), and I'm passi
 - Validate skills with certifications like AWS Certified Solutions Architect – Associate and contribute to open-source projects for hands-on experience.
   
 ## 👥 Connect with Me
-- [LinkedIn] https://www.linkedin.com/in/vaibhav-bhawsar-532510231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- [LinkedIn] www.linkedin.com/in/vaibhav-bhawsar001
+
 
 ## 📬 Contact
 - Email: bhavsarvaibhav001@gmail.com
