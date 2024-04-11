@@ -1,4 +1,48 @@
 # Hi there! 👋 I'm vaibhav bhawsar, an enthusiastic AWS and DevOps enthusiast 🚀
+<p align="center">
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/aws.png" alt="AWS" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/docker2.svg" alt="Docker" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/terraform.png" alt="Terraform" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/ansible.png" alt="Ansible" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/vscode.svg" alt="Visual Studio Code" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/visual-studio.svg" alt="Visual Studio" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/git.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/github.png" alt="GitHub" width="50" height="50"/>  
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/linux.svg" alt="Linux" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/bash.svg" alt="Bash" width="50" height="50"/>
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/powershell.png" alt="Powershell" width="50" height="50"/>  
+
+
+## 🚀 Expertise
+
+| Cloud Platforms          | Container Orchestration     | Infrastructure as Code      |Serverless Computing      |
+| ------------- | -------------- | ------------- |------------- |
+| ☁️ AWS     | ☸️ Kubernetes      | 🧱 Terraform        |🚀 AWS Lambda |
+|            | 🚢 Docker       | 🛠️ CloudFormation        |             |
+
+
+
+## 💼 Responsibilities
+
+### Infrastructure as Code (IaC)
+
+- Implementing infrastructure automation using tools like Terraform and CloudFormation.
+- Ensuring version control and documentation for infrastructure code.
+
+### Security and Compliance
+
+- Implementing security best practices for cloud environments.
+- Ensuring compliance with industry standards and regulations.
+
+### Cloud Migration
+
+- Planning and executing cloud migration strategies.
+- Optimizing existing applications for cloud-native environments.
+
+- 💬 Ask me about: AWS | DevOps.
+- 📫 Reach me out!: bhavsarvaibhav001@gmail.com
+
 
 ## 🌐 About Me
 I recently graduated with a degree in Bachelor of Engineering(BE), and I'm passionate about cloud computing, automation, and infrastructure as code. As a fresh graduate, I bring a fresh perspective and eagerness to learn and contribute.
