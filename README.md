@@ -14,6 +14,7 @@
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/linux.svg" alt="Linux" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/bash.svg" alt="Bash" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/powershell.png" alt="Powershell" width="50" height="50"/>  
+</a>  
 </p>
 
 
