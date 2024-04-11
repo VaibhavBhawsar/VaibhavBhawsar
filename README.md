@@ -46,6 +46,8 @@ I recently graduated with a degree in Bachelor of Engineering(BE), and I'm passi
 - Planning and executing cloud migration strategies.
 - Optimizing existing applications for cloud-native environments.
 
+<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/gif/line.gif" width="100%"></a>
+
 - 💬 Ask me about: AWS | DevOps.
 - 📫 Reach me out!: bhavsarvaibhav001@gmail.com
 
