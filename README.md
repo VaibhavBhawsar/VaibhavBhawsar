@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm vaibhav bhawsar, an enthusiastic AWS and DevOps enthusiast 🚀
+# Hi there! 👋 I'm Vaibhav Bhawsar, an enthusiastic AWS and DevOps enthusiast 🚀
 
 
 <p align="center">
