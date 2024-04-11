@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm vaibhav bhawsar, an enthusiastic AWS and DevOps enthusiast 🚀
 
+
 <p align="center">
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/aws.png" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
@@ -15,8 +16,10 @@
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/powershell.png" alt="Powershell" width="50" height="50"/>  
 
 
+
 ## 🌐 About Me
 I recently graduated with a degree in Bachelor of Engineering(BE), and I'm passionate about cloud computing, automation, and infrastructure as code. As a fresh graduate, I bring a fresh perspective and eagerness to learn and contribute.
+
 
 
 ## 🚀 Expertise
@@ -45,7 +48,6 @@ I recently graduated with a degree in Bachelor of Engineering(BE), and I'm passi
 
 - 💬 Ask me about: AWS | DevOps.
 - 📫 Reach me out!: bhavsarvaibhav001@gmail.com
-
 
 
 ## 💼 Skills
