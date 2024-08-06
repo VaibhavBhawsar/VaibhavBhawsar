@@ -2,7 +2,7 @@
  
 
 <p align="center">
-<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/aws.png" alt="AWS" width="50" height="50"/>
+<img src="https://images.app.goo.gl/F5eAegsFVQzN5SFi8" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/docker2.svg" alt="Docker" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/terraform.png" alt="Terraform" width="50" height="50"/>
