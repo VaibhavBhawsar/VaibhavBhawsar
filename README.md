@@ -2,8 +2,7 @@
  
 
 <p align="center">
-<img src="https://images.app.goo.gl/F5eAegsFVQzN5SFi8" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+<img src= https://www.google.com/search?client=ms-android-oneplus-terr1-rso3&sca_esv=0e526ec8824269be&sxsrf=ADLYWIKO6i-CqE02oLYkCr6AlAJtNZgsyA:1722928404060&q=aws+logo&udm=2&fbs=AEQNm0C9QyfIwRd2EqsUoyrzGF8vA983QMzHGfXHSEVuKESD5U7o3nxNp4GayZvkFo83jZ4VuBSPGBq34d3Iw3O3nBODTEaTkegfhKFuDgEsWSJpWghzFVvsbPCENxOdQVsfKC8ZpW2e5lyKFSjrBXL6UFoNIdtQ1JSy9tEeZBwSsbJXhwtKtD3EvNz2PWsJyn7hKvnDRkWl_wPf-kZ-p7WMdikmrgX0BA&sa=X&ved=2ahUKEwiH__y76N-HAxUve2wGHa7XFiQQtKgLegQIERAB&biw=362&bih=699&dpr=3.5#vhid=FB3B89WhUh9TUM&vssid=mosaicsrc="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/docker2.svg" alt="Docker" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/terraform.png" alt="Terraform" width="50" height="50"/>
 <img src="https://github.com/VaibhavBhawsar/VaibhavBhawsar/blob/main/Logos/ansible.png" alt="Ansible" width="50" height="50"/>
